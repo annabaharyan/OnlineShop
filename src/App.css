@@ -1,0 +1,48 @@
+/* theme dark */
+.bg-black{
+
+  background-color: black;
+}
+.bg-light-black{
+  background-color:rgb(32, 31, 31)!important
+}
+.text-black{
+  color: black;
+}
+
+.text-light-black{
+ color:rgb(32, 31, 31)
+}
+.bg-dark-primary{
+  background-color:rgb(238, 215, 188)!important;
+}
+.text-dark-primary{
+  color: rgb(238, 215, 188)!important;
+}
+
+/* theme light */
+.bg-light{
+
+  background-color: white;
+}
+.bg-light-2{
+  background-color:rgb(241, 233, 227)
+}
+
+.bg-light-primary{
+  background-color: rgb(30, 26, 90)!important;
+}
+.text-light-primary{
+  color: rgb(30, 26, 90)!important;
+}
+.text-light{
+  color: white;
+}
+
+/* anotherClass */
+.myLink{
+  text-decoration: none;
+}
+.cart{
+  padding-left: 5px;
+}
